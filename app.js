@@ -9,8 +9,8 @@ in the list of movies */
 // https://www.w3schools.com/howto/howto_js_todolist.asp
 
 // making a global var
+// changes for github lab (removed extra spaces and added this comment)
 var saved = "";
-
 var array = [];
 
 // Create a "close" button and append it to each list item
